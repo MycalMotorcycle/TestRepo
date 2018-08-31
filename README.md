@@ -1,4 +1,4 @@
-<p align="center"># **Vision Statement**
+<p align="center"># **Vision Statement**</p>
  
 ## *What will the product do?*
 	The product we plan to make is a turn-based strategy game, with missions
@@ -52,4 +52,4 @@ themselves totally devoid of any interest in playing such games
 over again, the game we are creating will lead to another goddamn 
 game in their Steam library that they get to play. Unlike our 
 competitors such as X-Com and Hand of Fate, our game offers 
-another fun experience in a different atmosphere.</p>
+another fun experience in a different atmosphere.
