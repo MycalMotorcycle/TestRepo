@@ -1,4 +1,4 @@
-<p align="center"># **Vision Statement**</p>
+<p align="center"># **Vision Statement**#</p>
  
 ## *What will the product do?*
 	The product we plan to make is a turn-based strategy game, with missions
